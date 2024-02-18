@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
